@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# portafolio-RubiOnRails_2024
+# portafolio-RubyOnRails_2024
