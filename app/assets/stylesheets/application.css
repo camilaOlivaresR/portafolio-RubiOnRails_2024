@@ -15,4 +15,8 @@
  */
  nav-link {
     text-decoration: none;
+
+}
+a.nav-link{
+    color: #663399;
 }
